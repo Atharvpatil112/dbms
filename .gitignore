@@ -1,0 +1,8 @@
+target/
+build-check/
+.idea/
+*.class
+
+# Keep personal database passwords on your computer, not GitHub.
+application-local.properties
+
